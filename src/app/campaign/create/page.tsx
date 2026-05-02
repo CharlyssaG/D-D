@@ -36,6 +36,12 @@ export default function CreateCampaignPage() {
       setError(dbError.message);
       setLoading(false);
     } else {
+      // Add the DM as a campaign member
+      await supabase.from('campaign_members').insert({
+        campaign_id: data.id,
+        user_id: user.id,
+        role: 'dm',
+      });
       router.push(`/campaign/${data.id}`);
     }
   };
