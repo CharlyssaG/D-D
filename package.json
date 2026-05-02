@@ -1,0 +1,43 @@
+{
+  "name": "dnd-campaign-manager",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "db:push": "supabase db push",
+    "db:reset": "supabase db reset",
+    "generate-types": "supabase gen types typescript --local > src/types/database.types.ts"
+  },
+  "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.8.7",
+    "@supabase/supabase-js": "^2.39.0",
+    "@tiptap/react": "^2.1.13",
+    "@tiptap/starter-kit": "^2.1.13",
+    "@tiptap/extension-image": "^2.1.13",
+    "@tiptap/extension-link": "^2.1.13",
+    "canvas-confetti": "^1.9.2",
+    "clsx": "^2.0.0",
+    "framer-motion": "^10.16.16",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-dropzone": "^14.2.3",
+    "react-hot-toast": "^2.4.1",
+    "zustand": "^4.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "supabase": "^1.123.4",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
