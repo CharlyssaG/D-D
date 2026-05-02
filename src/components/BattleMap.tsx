@@ -55,8 +55,9 @@ export default function BattleMap({ mapId, imageUrl, gridSize = 5, isDM }: Battl
           filter: `id=eq.${mapId}`,
         },
         (payload) => {
-          if (payload.new && payload.new.token_positions) {
-            updateTokensFromDB(payload.new.token_positions);
+          const newRecord = payload.new as Record<string, any> | undefined;
+          if (newRecord && newRecord.token_positions) {
+            updateTokensFromDB(newRecord.token_positions);
           }
         }
       )
