@@ -88,8 +88,8 @@ export function SpellList({ characterClass, maxLevel = 9, onSelectSpell, prepare
     });
   }, [characterClass, levelFilter, schoolFilter, maxLevel, search]);
 
-  const schools = [...new Set(SRD_SPELLS.map((s) => s.school))].sort();
-  const levels = [...new Set(SRD_SPELLS.filter((s) => !characterClass || s.classes.includes(characterClass)).map((s) => s.level))].sort();
+  const schools = Array.from(new Set(SRD_SPELLS.map((s) => s.school))).sort();
+  const levels = Array.from(new Set(SRD_SPELLS.filter((s) => !characterClass || s.classes.includes(characterClass)).map((s) => s.level))).sort();
 
   return (
     <div>
