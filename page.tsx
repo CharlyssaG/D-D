@@ -1,4 +1,5 @@
-  return (
+export default function HomePage() {
+return (
     <div className="min-h-screen flex items-center justify-center p-6">
       <div className="card-parchment corner-flourish max-w-2xl">
         <h1 className="chapter-heading mb-8">
