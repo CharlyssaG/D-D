@@ -202,7 +202,12 @@ export default function CharacterPage() {
     <div className="min-h-screen flex flex-col">
       <nav className="flex justify-between items-center px-8 py-4 border-b border-accent-amber/30">
         <Link href="/" className="font-accent text-xl text-accent-burgundy">Campaign Manager</Link>
-        <Link href="/dashboard" className="text-sm text-ink-medium hover:text-ink-dark transition-colors font-heading">Dashboard</Link>
+        <div className="flex items-center gap-4">
+          <Link href={`/character/${params.id}/focus`} className="bg-accent-burgundy text-parchment-light text-sm py-1.5 px-4 rounded-lg font-heading font-semibold hover:bg-accent-burgundy/90 transition-colors">
+            Focus Mode
+          </Link>
+          <Link href="/dashboard" className="text-sm text-ink-medium hover:text-ink-dark transition-colors font-heading">Dashboard</Link>
+        </div>
       </nav>
 
       <div className="max-w-5xl mx-auto w-full p-6">
