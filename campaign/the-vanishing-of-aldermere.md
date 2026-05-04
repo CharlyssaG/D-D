@@ -1,374 +1,430 @@
-# The Vanishing of Aldermere
+# The Vanishing of Aldermere — Expanded Edition
 
-## A 3-Session Mystery Campaign for Level 1 Characters (4-5 Players)
+## 3-Session Mystery for 5 Level 1 Players → End at Level 3
 
-**Estimated Time:** 3 sessions, 3-4 hours each
-**Difficulty:** Beginner-friendly
-**Theme:** Mystery, investigation, light horror, community intrigue
-**Setting:** A small lakeside town with a dark secret
-
----
-
-## Campaign Overview
-
-The players are travelers arriving at Aldermere, a quiet lakeside town, only to find the town in a quiet panic: people are disappearing. One by one, townsfolk are vanishing without a trace. The local constable is overwhelmed, and the mayor is oddly dismissive. The players must investigate, uncover the truth, and save the missing townsfolk before it's too late.
-
-**The Truth:** The town's beloved apothecary, Miravel Thorn, discovered an ancient ritual site beneath the old mill. She's been luring townsfolk there, using an enchanted tea to make them compliant, and feeding their life force to an imprisoned fey creature called The Drowning Prince, who promises her eternal youth. The missing people are alive but trapped in an enchanted sleep in the caverns below the mill.
+**Party:** Fighter, Cleric, Rogue, Wizard, Ranger (premade)
+**Sessions:** 3 × 3-4 hours each
+**Leveling:** Milestone — Level 2 after Session 1, Level 3 after Session 2, final fight at Level 3
 
 ---
 
-## Key NPCs
+## THE PREMADE PARTY
 
-### Miravel Thorn (The Villain)
-- **Appearance:** Elegant woman in her 50s, silver-streaked dark hair, always wears a brooch shaped like a water lily
-- **Personality:** Warm, generous, everyone's favorite. Offers free tea and remedies. Subtly redirects suspicion toward others
-- **Secret:** Terrified of aging after her husband died young. Found the ritual site 6 months ago
-- **In Combat:** AC 12, HP 27, uses poison darts (1d4+2 poison), sleep potions (thrown, DC 12 CON save), and can command The Drowning Prince's minor illusions
+### Rowan Ashford (Fighter) — "The Shield"
+**Playstyle:** Hit things, protect allies. Simplest character.
+**Tell the player:** "You have the most HP and the best armor. Your job is to stand between the monsters and your friends. If things go bad, you have Second Wind to heal yourself."
 
-### Constable Harlen Moss
-- **Appearance:** Tired, mid-40s, patchy beard, dark circles under his eyes
-- **Personality:** Honest but overwhelmed. Grateful for help. Has a list of missing persons
-- **Key Info:** Three people missing in 2 weeks. No bodies, no signs of struggle. Last seen near the market square at dusk
+### Thistle Moonpetal (Cleric) — "The Heart"
+**Playstyle:** Heal, buff, and smash with divine magic.
+**Tell the player:** "You keep everyone alive. Healing Word is your best friend — it's a BONUS action, so you can still attack. Bless makes the whole party better at everything."
 
-### Mayor Idris Blackwell
-- **Appearance:** Portly, well-dressed, sweating even in cool weather
-- **Personality:** Dismissive and nervous. Claims people "just moved away"
-- **Secret:** Not involved in the disappearances, but is embezzling town funds and fears any investigation might expose him. Red herring
+### Felix Quickfoot (Rogue) — "The Eyes"
+**Playstyle:** Sneak, search, find clues. Big burst damage.
+**Tell the player:** "You're the detective. Search everything, check for traps, pick locks. In combat, stay near Rowan — when an enemy is next to an ally, you get Sneak Attack for bonus damage."
 
-### Old Wren (The Clue-Giver)
-- **Appearance:** Ancient fisherman, milky eyes, sits by the lake dock every day
-- **Personality:** Cryptic but kind. Speaks in half-riddles. Knows the lake's legends
-- **Key Info:** Knows the legend of The Drowning Prince. Will share if players bring him a drink and sit with him
+### Ember Stormvane (Wizard) — "The Brain"
+**Playstyle:** Knowledge checks, area damage, utility magic.
+**Tell the player:** "You're the magical expert. Detect Magic reveals hidden enchantments. In combat, save Shield for when you get attacked — it makes you almost unhittable for a round. Sleep can end encounters instantly at low levels."
 
-### Lila Fernsby (Missing Person's Family)
-- **Appearance:** Young woman, red-eyed from crying, flour-dusted apron
-- **Personality:** Desperate, angry, wants answers. Her brother Tomm is the most recent missing person
-- **Key Info:** Tomm visited Miravel's shop the evening he vanished. She saw him drinking tea there
-
-### The Drowning Prince (The Creature)
-- **Appearance:** Tall, gaunt fey with translucent blue-green skin, seaweed-like hair, hollow black eyes that weep constantly
-- **Personality:** Ancient, manipulative, desperate to be freed from his prison. Speaks in whispers
-- **In Combat:** AC 14, HP 45, charm gaze (DC 13 WIS save or charmed 1 round), water whip (1d8+3, 15 ft reach), can create fog cloud 1/encounter. Vulnerable to iron
+### Kael Ironfang (Ranger) — "The Nose"
+**Playstyle:** Track, scout, ranged combat. Knows about fey.
+**Tell the player:** "You're the survivalist. Your Favored Enemy is fey — which is VERY relevant to this adventure. Stay at range with your longbow. If you drop to 0 HP, Relentless Endurance keeps you at 1 instead."
 
 ---
 
-## Session 1: Arrival and the First Clues (3-4 hours)
+## SESSION 1: ARRIVAL (Level 1 → Level 2)
 
-### Opening: Welcome to Aldermere (30 min)
+**Goal:** Arrive, investigate, find the mill passage, first combat, strong RP foundation.
 
-**Read aloud:**
-> The road through the Greenvale hills has been long, but as you crest the final ridge, you see it: Aldermere. A town of perhaps two hundred souls nestled against the shore of Mirror Lake. Smoke curls from chimneys. Fishing boats bob at the dock. It looks peaceful. But as you descend toward the town gate, you notice something: the gate is closed in the middle of the day, and a nervous-looking guard watches your approach.
+### Act 1: Welcome to Aldermere (45 min RP)
 
-**The Guard (Pim):**
-- Young, fidgety, holding a spear he clearly doesn't know how to use
-- Will let the players in after basic questions ("Who are you? What's your business?")
-- If asked why the gate is closed: "Constable's orders. People have been... going missing."
-- Directs them to the Hearthstone Inn for lodging, and to Constable Moss if they want to help
+**READ ALOUD:**
+> The road through the Greenvale hills has been long. Five strangers, drawn here by different roads and different reasons, crest the final ridge together. Below: Aldermere. A town of two hundred souls against the shore of Mirror Lake. Smoke from chimneys. Boats at the dock. Peaceful — except the gate is closed in the middle of the day, and a nervous boy with a spear watches your approach.
 
-**The Hearthstone Inn:**
-- Run by Berta Ashwood, a sturdy woman who gives them rooms at half price if they promise to help find the missing
-- **Rumors from other patrons (Perception DC 10 or just buying someone a drink):**
-  - "Three people gone in two weeks. Tomm the baker's boy was last."
-  - "The mayor says they left town, but who leaves without packing?"
-  - "Old Wren down at the dock says the lake is hungry."
-  - "Miravel's been giving out free calming teas to everyone. Sweet woman."
+**Introductions Round:**
+Have each player introduce their character. Prompt them:
+- "What do you look like?"
+- "Why are you here?" (Their backstories give reasons)
+- "What's the first thing you notice about the town?"
 
-### Meeting the Constable (30 min)
+**Pim (Gate Guard):**
+- Let players roleplay getting through the gate
+- If anyone rolls Persuasion or Intimidation, let low rolls work too — Pim is easy
+- He sends them to the Hearthstone Inn
 
-**Constable Moss's Office:**
-- Cluttered desk, map of town with red X marks where people were last seen
-- **The Missing:**
-  1. **Edda Marsh** — elderly herbalist, disappeared 14 days ago, last seen walking home from the market at dusk
-  2. **Garren Flint** — middle-aged blacksmith, disappeared 9 days ago, last seen near the old mill
-  3. **Tomm Fernsby** — young baker (19), disappeared 3 days ago, last seen leaving Miravel's apothecary shop
+**The Hearthstone Inn — RP Scene:**
+- Berta Ashwood serves stew and asks why five armed strangers are in her town
+- **RP Opportunity:** Each player can share why they came. This is the bonding moment
+- **Rumors from patrons** (give one to each player who talks to someone):
+  1. "Three gone in two weeks. The baker's boy was latest."
+  2. "Mayor says they just left. But who leaves without their boots?"
+  3. "Old Wren at the dock says the lake is hungry this season."
+  4. "Miravel's been handing out free calming tea. Keeps everyone nice and drowsy."
+  5. "I swear I saw lights under the old mill last week. Blue-green, like foxfire."
 
-**What Moss knows:**
-- No signs of struggle at any location
-- No bodies found
-- The mayor refuses to send for outside help ("Bad for trade")
-- All three disappeared in the evening
-- He's searched the obvious places: their homes, the woods, the lakeshore
+### Act 2: The Investigation Begins (60 min RP + Exploration)
 
-**What Moss gives the players:**
-- Permission to investigate anywhere in town
-- A rough map of Aldermere with the disappearance locations marked
-- A key to the constable's storage room (basic supplies: rope, torches, manacles)
+**Constable Moss — Quest Assignment:**
+- Gives them the missing persons list and town map
+- Missing: Edda Marsh (14 days), Garren Flint (9 days), Tomm Fernsby (3 days)
+- "I can't offer much pay, but the town can spare 50 gold each if you find them."
+- Gives them a deputy badge (advantage on Persuasion checks with townsfolk)
 
-### Investigation Phase (90-120 min)
+**Players investigate — let them choose the order:**
 
-The players can visit locations in any order. Guide them gently if they seem stuck.
+**Lila Fernsby (Emotional RP):**
+- She's crying, angry, desperate
+- "My brother Tomm went to Miravel's for a headache remedy. I SAW him drinking tea through the window. He never came home."
+- If a player comforts her: "No one else seems to care. The mayor told me he probably ran off. Tomm would NEVER leave me."
+- **Evidence:** Miravel's tea on the shelf → Perception DC 12 → Arcana/Nature DC 14 reveals dreamlily
 
-**Location 1: Tomm's Home / Lila Fernsby**
-- **Investigation DC 10:** Tomm's bed wasn't slept in the night he vanished
-- **Talking to Lila:** She says Tomm went to Miravel's shop that evening for a headache remedy. She saw him through the window, drinking tea. He never came home
-- **Perception DC 12:** Lila has a small vial of Miravel's "calming tea" on the kitchen shelf. If a player tastes or smells it: "It's pleasant but there's something underneath the chamomile. Something... sharp."
-- **Arcana/Nature DC 14:** The tea contains trace amounts of dreamlily, a mild sedative. Not enough to knock someone out on its own, but enough to make them... suggestible
+**Miravel's Apothecary (Deception RP):**
+- Miravel is warm, offers tea. NORMAL tea — she's not stupid
+- "Oh, poor Tomm. He seemed fine when he left. Have you tried the west road? Young men wander."
+- **Insight DC 13:** She's lying about Tomm leaving safely
+- **Perception DC 15:** Locked drawer behind counter
+- **If Felix tries to pick it (Thieves' Tools DC 14):** Dreamlily vial, map of mill passage, journal
+- Let them try. If they fail, they can come back later
 
-**Location 2: The Old Mill**
-- Abandoned, creaky, at the edge of town near the lake
-- **Perception DC 12:** Fresh boot prints in the dust inside, going toward the back wall
-- **Investigation DC 14:** A section of the back wall is actually a door, cleverly disguised. Behind it: stone stairs descending into darkness
-- **If they go down now:** They'll find a natural cavern system. After 100 feet, the passage splits. The left path leads to a dead end with old mining equipment. The right path has a faint blue-green glow far ahead, but a locked iron gate blocks the way (DC 18 to pick, DC 20 to force). They'll need the key, which Miravel has
-- **DM Note:** Don't let them bypass the gate in Session 1. It builds tension. If they try hard, let them hear faint breathing from beyond — someone is alive down there
+**Mayor Blackwell (Red Herring RP):**
+- Sweating, dismissive: "People leave small towns all the time."
+- **Insight DC 11:** He's hiding something
+- **Investigation DC 13 on his desk:** Embezzlement ledgers
+- **If confronted:** Breaks down, cries, begs them not to tell. Swears he has nothing to do with disappearances (TRUE)
+- **Teaching moment:** Not every suspicious person is the villain
 
-**Location 3: Miravel's Apothecary**
-- Beautiful shop, dried herbs hanging from rafters, smells wonderful
-- Miravel is warm, offers them free tea (the normal kind, not the drugged kind — she's smart)
-- **Her Story:** "Oh, poor Tomm. Yes, he came by for a headache remedy. He seemed fine when he left. I do hope he's found safe."
-- **Insight DC 13:** She's lying about something. Not everything, but there's a tension around her eyes when she talks about Tomm leaving
-- **Perception DC 15 (or if they ask to look around):** A locked drawer behind the counter. If they manage to look inside later: contains a vial of concentrated dreamlily and a hand-drawn map showing the passage under the old mill
-- **Persuasion DC 16 to get her to open the drawer:** She refuses, says it's "personal correspondence." Getting more suspicious of the party if they push
+**Old Wren (Legend RP):**
+- Won't talk until someone SITS with him. Patience test for players
+- **If Kael is present:** "Ah. You smell like the old forest. The fey have touched you, haven't they?"
+- Tells the legend of The Drowning Prince
+- "Follow the water lilies. They grow where they shouldn't."
+- **If Ember asks about fey magic:** "The bindings are weakening. Can't you feel it? The air tastes like copper and old promises."
 
-**Location 4: The Lake Dock / Old Wren**
-- Old Wren sits on an overturned bucket, mending a net he'll never use
-- He'll talk to anyone who sits with him and doesn't rush him
-- **The Legend of The Drowning Prince:**
-  > "Long before this town, there was a prince of the fey folk. Beautiful and cruel. He tried to steal the lake for his court, but the druids of the old forest bound him beneath the water in chains of iron and root. They say he sleeps still, in a cave where the water weeps. They say he whispers to those who listen."
-- **If asked about the disappearances:** "The lake hasn't taken them. Something else has. Something that walks on two legs and smiles while it does."
-- **Wren's final warning:** "Follow the water lilies. They grow where they shouldn't."
+### Act 3: The Mill & First Combat (60-90 min)
 
-**Location 5: Mayor Blackwell's Office (optional)**
-- He's nervous, sweating, insists everything is fine
-- **Insight DC 11:** He's clearly hiding something
-- **Investigation DC 13 (his desk):** Financial ledgers showing embezzlement. He's been skimming town taxes
-- **If confronted:** He breaks down, admits the money, begs them not to tell. But swears he has nothing to do with the disappearances. He's telling the truth — he's just a corrupt coward
-- This is a **red herring** designed to teach players that not every suspicious person is the villain
+**The Old Mill:**
+- Perception DC 12: Fresh boot prints
+- Investigation DC 14: Hidden door in back wall
+- Behind: Stone stairs into darkness
 
-### Session 1 Closing
+**COMBAT ENCOUNTER 1: Blighted Vines (4x)**
+As they descend the stairs, the roots along the walls MOVE.
 
-As evening falls, whether the players are at the inn or walking through town, read:
+**Blighted Vine** (×4)
+- AC 12, HP 11, Speed 10 ft
+- **Vine Lash:** +4 to hit, reach 10 ft, 1d6+2 bludgeoning
+- **Entangle (Recharge 5-6):** One creature within 10 ft, STR DC 12 or restrained until end of their next turn
+- On death: Oozes blue-green sap that smells like lake water
 
-> As the sun dips below Mirror Lake, you notice something strange: water lilies are growing in the town fountain. The fountain is fed by a pipe from the hills, not the lake. Water lilies shouldn't be here. And in the fading light, you could swear the petals are arranged in the shape of a hand, reaching upward.
+**Tactics:** Two vines attack the front line (Rowan, Kael), two try to entangle the back line (Ember, Thistle). This teaches positioning.
+**DM Tip:** If the party is struggling, have a vine already be half-dead (6 HP). If too easy, add a 5th vine.
 
-**End Session 1.** Players should suspect Miravel, have found the mill passage, and know the legend.
+**After combat:** The passage continues to an iron gate (locked, DC 18). They can hear faint breathing beyond. Someone is alive down there. But the gate won't budge without the key.
 
----
+### Session 1 Closing (15 min)
 
-## Session 2: Deepening the Mystery (3-4 hours)
+As they emerge from the mill at dusk:
 
-### Opening: Something Changed Overnight (20 min)
+> Water lilies are growing in the town fountain. The fountain is fed by a pipe from the hills — not from the lake. These shouldn't be here. And in the dying light, the petals are arranged in the shape of a reaching hand.
 
-**Read aloud:**
-> You wake to shouting. Another person is missing. This time it's Pim, the gate guard you met yesterday. His post is abandoned, his spear leaning against the wall. And on the ground where he stood: a single water lily, still wet.
-
-This raises the stakes. Someone they met is now gone.
-
-### New Clues and Confrontations (90 min)
-
-**The Water Lily Trail:**
-- **Nature DC 10:** These lilies are freshwater species found only in Mirror Lake
-- **Survival DC 12:** Wet footprints lead from the fountain toward the old mill, but fade after 50 feet
-- **Arcana DC 13:** The lilies radiate faint enchantment magic. They're markers — breadcrumbs left by something fey
-
-**Miravel's Shop (Revisit):**
-- If the players return and confront Miravel more directly, she gets nervous
-- **Insight DC 12:** She's afraid, not just evasive
-- **If they mention the mill passage:** Her eyes widen. She'll try to dismiss it ("That old place? Nothing but rats.")
-- **If they mention the Drowning Prince:** She goes pale. "Where did you hear that name?"
-- **Stealth DC 14 to follow her after the shop closes:** She goes to the mill at dusk, carrying a basket
-
-**Breaking Into Her Shop (if players think of this):**
-- **Thieves' Tools DC 14** to pick the back door
-- Inside the locked drawer: concentrated dreamlily vial, the map, and a journal
-- **The Journal (key passages):**
-  - "I found the cave. The roots still hold, but barely. He spoke to me. He knows my name."
-  - "He promises youth. Eternal spring. All he needs is... sustenance. Living energy. It doesn't kill them, he says. They just sleep."
-  - "Edda was the first. She went willingly after the tea. So trusting."
-  - "I'm sorry, Tomm. But I can already feel the years falling away."
-- This is the smoking gun if they find it
-
-**Following Miravel to the Mill (if they chose to follow):**
-- They see her enter the mill, open the hidden door, descend
-- If they follow, they hear her voice echoing from below, speaking to someone
-- They can overhear: "Four more and it will be done. You promised. I held up my end."
-- A different voice, like water over stones: "Patience, child. The roots weaken with each offering. Soon I will be free, and you shall be young forever."
-
-### The Confrontation Choice (60 min)
-
-At some point in Session 2, the players have enough evidence to act. Three approaches:
-
-**Option A: Confront Miravel Directly**
-- If they have evidence and confront her publicly, she breaks down
-- She'll beg them to understand: "You don't know what it's like to watch yourself wither"
-- If they're sympathetic, she'll give them the key to the iron gate
-- If they're hostile, she'll try to flee to the mill
-
-**Option B: Go to the Constable**
-- Moss is shocked but believes them with evidence
-- He'll want to come with them to the mill
-- He has iron manacles (important for the fey creature)
-
-**Option C: Storm the Mill**
-- They can go in without confronting anyone
-- Harder without the key (DC 18 to pick the gate, DC 20 to force)
-- But dramatic
-
-### The Caverns (First Look) (30-60 min)
-
-Whether they get the key from Miravel or break through, they descend.
-
-**The Passage:**
-- Stone steps, carved long ago, covered in moss and moisture
-- The deeper they go, the more the walls glisten with condensation
-- Faint blue-green light ahead
-- The air smells of lake water and something sweet, like flowers
-
-**The Sleeping Chamber:**
-- A large natural cavern with a shallow pool in the center
-- Lying around the pool on stone slabs: the four missing townsfolk (Edda, Garren, Tomm, Pim)
-- They're alive but in a deep enchanted sleep
-- Water lilies grow from cracks in the floor around each sleeper
-- Faint tendrils of blue-green light connect each sleeper to... the far wall
-
-**The Far Wall:**
-- A massive root system, ancient and thick, covers the far wall from floor to ceiling
-- Behind the roots, barely visible: a tall, gaunt figure with translucent skin, suspended in the roots like a butterfly in a web
-- The Drowning Prince. His eyes are closed. But as the players look, one eye opens slowly
-
-**Read aloud:**
-> The eye is black as the bottom of the lake. And when it opens, you hear a voice — not in your ears, but behind your eyes. "Visitors. How... delightful. Has my gardener brought me more flowers?"
-
-**End Session 2.** The players have found the missing people, know the truth, and have met the villain behind the villain.
+**LEVEL UP TO 2.** Walk them through it at the table:
+- Rowan: +1d10 HP, Action Surge
+- Thistle: +1d8 HP, Channel Divinity (Preserve Life — mass heal!)
+- Felix: +1d8 HP, Cunning Action (Dash/Disengage/Hide as bonus action)
+- Ember: +1d6 HP, Arcane Tradition (School of Evocation — Sculpt Spells)
+- Kael: +1d10 HP, Fighting Style (Archery: +2 to ranged attacks), Spellcasting (learns Hunter's Mark)
 
 ---
 
-## Session 3: The Reckoning (3-4 hours)
+## SESSION 2: THE TRUTH (Level 2 → Level 3)
 
-### Opening: The Prince Speaks (20 min)
+**Goal:** Another disappearance, confront Miravel, enter the caverns, meet the Prince, RP-heavy moral dilemmas.
 
-The Drowning Prince is still bound but can communicate telepathically and use minor magic through the weakened roots.
+### Act 1: Pim Is Gone (30 min RP)
 
-**What He Wants:** Freedom. The life force of the sleepers is weakening the druidic bindings. Four more people and he'll break free, flood Aldermere, and reclaim Mirror Lake for the fey
+**Opening:**
+> You wake to shouting outside the inn. Berta is at the door, face white. "Pim is gone. The gate guard — the boy you met yesterday. His spear is leaning against the wall. His post is empty. And there's a water lily on the ground where he stood."
 
-**What He Offers:** He'll try to tempt each player individually with something they want (tailor to backstories if possible):
-- Power, knowledge, beauty, revenge, a lost loved one returned
-- **WIS Save DC 13** for each player targeted — failure means they feel a strong pull toward accepting but doesn't force them to. They just feel genuinely tempted
+**RP Beats:**
+- Lila storms in: "I told you! Do something!"
+- Constable Moss arrives, looking broken: "Four people. Four. In a town of two hundred."
+- **Choice moment:** Do the players confront Miravel now, or gather more evidence first?
 
-**The Choice:**
-The players need to decide how to handle this:
-1. Free the sleepers (breaking the roots' hold on them) which weakens the Prince further
-2. Destroy the ritual site
-3. Deal with Miravel (who may be here or may have been dealt with)
-4. Potentially fight the Prince if they provoke him or try to free the sleepers
+### Act 2: Closing the Net (60 min RP + Investigation)
 
-### Freeing the Sleepers (30 min)
+**Following Miravel (if they watch her shop at dusk):**
+- Stealth DC 14 (Felix has this easy with expertise)
+- She leaves at sunset carrying a basket
+- Walks to the old mill, opens the hidden door, descends
+- They can follow and overhear:
+> "Four more and it will be done. You promised me."
+> A voice like water over stones: "Patience, child. The roots weaken with each offering. Soon I shall be free. And you shall bloom eternal."
+
+**Confronting Miravel (RP Scene — IMPORTANT):**
+This is the campaign's biggest RP moment. Let it breathe.
+
+**If they confront her with evidence:**
+- She crumbles. The warmth drains from her face.
+- "You don't understand. You CAN'T understand. I watched my husband die at forty. Forty! One day he was laughing, the next he was gray and cold. I can feel it happening to me. Every morning the mirror shows me another line, another gray hair. He promised — the Prince promised — that none of them would die. They're just sleeping."
+- **Persuasion DC 12:** She'll give them the iron gate key
+- **Intimidation DC 10:** She gives the key immediately but is hostile
+- **No roll needed if players are compassionate:** She hands it over willingly
+
+**If they break in and find the journal:**
+Read selected entries:
+- "He knows my name. He spoke to me through the water."
+- "Edda was the first. She trusted me completely. The tea makes them so... willing."
+- "Four more feedings and the bindings break. He'll be free. And I'll be young again."
+- "I'm sorry, Tomm. I'm so sorry."
+
+**Key choice: What do they do with Miravel?**
+- Take her to Moss? She goes willingly
+- Tie her up in her shop? She doesn't resist
+- Bring her along? Interesting but dangerous
+- Let her go? She'll run
+
+### Act 3: The Caverns (45 min Exploration + Combat)
+
+**Beyond the iron gate:**
+The passage descends, walls glistening. The air smells of lake water and dying flowers. Blue-green light pulses ahead like a heartbeat.
+
+**COMBAT ENCOUNTER 2: Enthralled Guards (2x) + Will-o-Wisp (1x)**
+Before the sleeping chamber, two townsfolk stand guard — blank-eyed, enchanted.
+
+**Enthralled Guard** (×2) — actually enchanted commoners
+- AC 10, HP 15, Speed 30 ft
+- **Clumsy Strike:** +2 to hit, 1d6 bludgeoning (they're not fighters)
+- **Special:** Can be broken from the charm! Thistle's Channel Divinity or any Remove Curse/Dispel Magic frees them. Also: taking damage lets them repeat WIS DC 12 save
+- **DM Note:** These are PEOPLE, not monsters. Reward non-lethal approaches
+
+**Will-o-Wisp** (×1) — the Prince's watchdog
+- AC 19 (!), HP 22, Speed 50 ft (fly), INCORPOREAL (can move through objects)
+- **Shock:** +4 to hit, 2d8 lightning damage
+- **Invisibility:** Can turn invisible as action
+- **Weakness:** Vulnerable to radiant damage (Guiding Bolt, Sacred Flame)
+- **If reduced to 0 HP:** Explodes in sparks. The enthralled guards snap awake, confused
+
+**Tactics:** The Wisp goes invisible and attacks casters. Guards mindlessly swing at nearest threat. If a player tries to talk to the guards, they mutter "Must... protect... the sleepers..."
+**Teach:** Ember's Detect Magic helps find the invisible Wisp. Thistle's radiant spells hit its vulnerability. Felix can ready an action to strike when it appears. Rowan protects the back line.
+
+**After combat:** The freed guards are confused townspeople who were recently enthralled. They can share that they were "called" here by whispers.
+
+### Act 4: The Sleeping Chamber & The Prince (45 min RP)
+
+**The Chamber:**
+> A cavern the size of a cathedral, lit by blue-green light that seems to come from everywhere and nowhere. A shallow pool of perfectly still water fills the center. Around it, on stone slabs: four people lie sleeping. Edda. Garren. Tomm. Pim. Their chests rise and fall slowly. Threads of blue-green light connect each sleeper to a massive wall of roots at the far end of the cavern. And behind the roots, barely visible — a figure. Tall. Gaunt. Translucent skin. Eyes closed. Water drips from its hair like tears.
+
+> Then one eye opens. Black as the bottom of the lake.
+
+> A voice, not in your ears but behind your eyes: "Visitors. How delightful. Has my gardener brought me more flowers?"
+
+**The Prince's Conversation (Major RP Scene):**
+He's ancient, charming, and manipulative. Play him as calm, amused, slightly sad.
+
+**What he tells them (with Insight DCs to detect lies):**
+- "I was a prince of the Summer Court. Beautiful once. Now look at me." (True)
+- "The druids imprisoned me for the crime of loving this lake." (Insight DC 14: Half-truth. He tried to STEAL the lake)
+- "The sleepers aren't harmed. They dream beautiful dreams." (Insight DC 12: Half-true. They dream, but their life force is being drained slowly)
+- "Your 'healer' Miravel came to me willingly. I gave her what she wanted." (True)
+- "Free me and I will leave this place peacefully." (Insight DC 15: Complete lie. He'll flood Aldermere)
+
+**He tries to tempt each player individually (WIS DC 13):**
+- **Rowan:** "I can bring back the soldiers you failed to save. All of them."
+- **Thistle:** "Your goddess is small. I can give you REAL power. Heal anyone. Even death itself."
+- **Felix:** "Your debt? Gone. I can make the person you owe forget you entirely."
+- **Ember:** "I know secrets that your academies will never discover. The true names of stars."
+- **Kael:** "I can make the forest what it was a thousand years ago. Before the cities. Before the roads. Pure."
+
+**Failed save:** The player feels a genuine pull. They don't HAVE to do anything, but describe the temptation as real and visceral. This is great RP.
+
+**The Prince's ultimatum:**
+"Leave this place. Bring me four more. Just four, and I'll be free — and I'll spare your little town. Refuse... and these four never wake up."
+
+**This is a lie.** They'll wake up if the Prince is defeated.
+
+> The roots pulse once, twice, and the blue-green light intensifies. The Prince's eye closes. He's shown you what he is. Now it's your move.
+
+**End Session 2.**
+
+**LEVEL UP TO 3.** This is a big one:
+- Rowan: +1d10 HP, Martial Archetype (Champion — crits on 19-20!)
+- Thistle: +1d8 HP, 2nd level spells (Spiritual Weapon!), extra 1st-level slot
+- Felix: +1d8 HP, Sneak Attack → 2d6, Roguish Archetype (Thief — Fast Hands)
+- Ember: +1d6 HP, 2nd level spells (Misty Step, Scorching Ray!), extra 1st-level slot
+- Kael: +1d10 HP, Ranger Archetype (Hunter — Colossus Slayer: 1d8 extra damage on wounded targets), Primeval Awareness
+
+---
+
+## SESSION 3: THE RECKONING (Level 3 — Final Session)
+
+**Goal:** Free sleepers, boss fight, resolve Miravel, celebrate victory.
+
+### Act 1: Preparing for Battle (30 min RP)
+
+The party returns to town to prepare. This is their pre-battle RP scene.
+
+**Possible beats:**
+- **Constable Moss:** "I'm coming with you." He grabs his sword and iron manacles
+- **Berta:** Packs them food and slips Thistle a healing potion (2d4+2)
+- **Old Wren:** Gives them a final clue: "Iron. He fears iron. The old druids knew. The manacles, the gate — all iron. It burns him."
+- **Lila:** "Bring Tomm home. Please." She gives Felix a kitchen knife. "It's iron."
+
+**Short Rest** — recover abilities, prepare spells, strategize. Ask the players: "What's your plan?"
+
+### Act 2: The Descent (30 min)
+
+They go back down. The cavern feels different — the roots are MOVING, slowly, like breathing.
+
+**COMBAT ENCOUNTER 3: Root Horror**
+The roots have spawned a guardian.
+
+**Root Horror** (1x)
+- AC 13, HP 40, Speed 20 ft
+- **Slam:** +5 to hit, 2d6+3 bludgeoning
+- **Root Eruption (Recharge 5-6):** All creatures within 15 ft — DEX DC 13, 2d8 bludgeoning on fail, half on success, and restrained on fail (STR DC 13 to break free)
+- **Vulnerable to fire.** Ember's Fire Bolt deals double damage!
+- **When destroyed:** The roots on the wall crack and shudder. The Prince screams.
+
+**DM tip:** This fight is a warm-up. Let the players feel powerful at level 3. Ember's new 2nd-level spells should shine.
+
+### Act 3: Freeing the Sleepers (30 min RP + Skill Challenges)
 
 **Each sleeper requires:**
-- **Medicine DC 12** to safely disconnect them from the magical tendrils
-- OR a successful **Arcana DC 13** to sever the magical link
-- OR physically cutting the light tendrils (the sleeper takes 1d6 psychic damage but wakes up)
+- **Medicine DC 12** to safely disconnect the light tendrils
+- OR **Arcana DC 13** to sever the magical link
+- OR physically cutting tendrils (1d6 psychic to the sleeper, but they wake)
 
-**As each sleeper is freed:**
-- The roots on the far wall crack and tighten
-- The Drowning Prince screams telepathically
-- The cavern shakes
-- After the second sleeper is freed, the Prince lashes out
+**After each sleeper wakes:**
+- **Edda (1st):** Confused, weak. "Where... is my cat?"
+- **Garren (2nd):** Angry. "That woman. She gave me tea and I... I couldn't say no." He grabs a rock. "I'm not leaving until whoever did this pays."
+- **Tomm (3rd):** Sees the party. "Where's Lila? Is she safe?" Starts crying with relief
+- **Pim (4th):** "I knew I shouldn't have drunk that tea. My mum is going to kill me."
 
-### Boss Fight: The Drowning Prince (60-90 min)
+**Each freed sleeper cracks the roots further.** After the 4th:
 
-**Trigger:** Freeing the second sleeper, or attempting to damage the roots directly.
+> The entire cavern shakes. Dust falls from the ceiling. The roots on the far wall SNAP and tear and the Prince — the Drowning Prince — rips his upper body free. His arms stretch wide, clawed fingers dripping with sap. His mouth opens and a sound comes out that isn't a scream, isn't a word — it's the sound of a lake in a storm, of water finding the cracks in a dam.
 
-The Prince tears partially free of the root prison — his upper body and arms are free, but his legs remain bound. He fights from a fixed position.
+> "ENOUGH."
 
-**The Drowning Prince (Modified for Level 1 Party)**
-- **AC:** 14
-- **HP:** 45 (reduce to 35 for 4 players)
-- **Speed:** 0 (bound) — this is KEY for level 1 balance
-- **Attacks:**
-  - **Water Whip (Melee):** +5 to hit, reach 15 ft, 1d8+3 bludgeoning. Can pull target 10 feet closer (STR DC 13 to resist)
-  - **Charm Gaze (Recharge 5-6):** One creature within 30 ft, WIS DC 13 save or charmed until end of their next turn. Charmed creature can't attack the Prince
-  - **Fog Cloud (1/encounter):** Creates fog in 20-foot radius centered on him. Heavily obscured area. Lasts 3 rounds
-- **Vulnerability:** Iron weapons deal double damage. The constable's iron manacles, if thrown/used creatively, deal 2d6 on contact
-- **Root Weakness:** Players can attack the roots (AC 10, HP 15 per cluster, 3 clusters). Destroying a root cluster deals 10 damage to the Prince and he loses one ability (first: Fog Cloud, second: Charm Gaze, third: Water Whip reach reduced to 5 ft)
+### Act 4: BOSS FIGHT — The Drowning Prince (60-90 min)
 
-**Tactical Notes for the DM:**
-- He CAN'T move. Players can stay at range if smart. Reward that thinking
-- Use Fog Cloud early to scare them, then have it fade
-- Use Charm Gaze on the strongest fighter to create tension
-- Describe him as desperate, not confident. He's been imprisoned for centuries. He's afraid
-- If a player drops to 0 HP, have one of the freed townsfolk (Garren the blacksmith) grab a rock and help
-- Let players use the environment: collapse stalactites (improvised 2d6), throw iron objects, cut roots
+**The Drowning Prince (Final Form — Level 3 Party of 5)**
+- **AC:** 15
+- **HP:** 65
+- **Speed:** 0 (still partially bound — legs trapped in roots)
+- **Legendary Resistance (1/day):** Can choose to succeed on a failed save
 
-**When He Reaches 0 HP:**
-> The Prince lets out a sound like a lake freezing in an instant — a deep, resonant crack. The blue-green light flares blindingly bright, then... goes out. The roots surge forward, wrapping around the Prince's broken form, pulling him back into the wall. The water lilies wilt. The pool goes still. And then, silence. Real silence. The kind a town can sleep to.
+**Attacks (2 per round — Multiattack):**
+- **Water Whip:** +6 to hit, reach 15 ft, 1d10+4 bludgeoning. Can pull target 10 ft closer (STR DC 14)
+- **Charm Gaze (Recharge 5-6):** One creature within 30 ft, WIS DC 14 save or charmed until end of their next turn
+- **Tidal Surge (Recharge 6, or when first bloodied below half HP):** All creatures within 20 ft — CON DC 14, 3d6 cold damage on fail, half on success. Also pushes 10 ft and knocks prone on fail
 
-### Aftermath (30-60 min)
+**Environmental Mechanics:**
+- **3 Root Clusters** around the cavern (AC 10, HP 20 each)
+  - Destroying Cluster 1: Prince loses Charm Gaze, takes 10 damage
+  - Destroying Cluster 2: Prince loses Legendary Resistance, takes 10 damage
+  - Destroying Cluster 3: Water Whip reach reduced to 5 ft, takes 10 damage
+- **The Pool:** Shallow water (difficult terrain). The Prince can use Water Whip to pull people INTO the pool. If restrained in the pool: disadvantage on DEX saves
+- **Iron Weapons:** Deal double damage. The kitchen knife from Lila, the constable's manacles, the iron gate key — all count
+- **Stalactites:** A player can use an action to target a stalactite above the Prince (ranged attack DC 12). Hit: 2d10 bludgeoning to the Prince
 
-**The Sleepers Wake:**
-- Confused but unharmed. They remember nothing after drinking Miravel's tea
-- Tomm hugs whoever is closest. Edda asks if anyone fed her cat
-- Pim says "I knew I shouldn't have drunk that tea"
+**Combat Flow Guide for DM:**
 
-**Miravel's Fate (Player Choice):**
-Let the players decide. This is a great moral moment for new players:
-- **Turn her in to the constable:** She's arrested. Fair and just. Lila wants this
-- **Let her go:** She flees town, haunted by guilt. Old Wren approves — "Mercy is its own magic"
-- **Forgive her:** She stays but loses her shop and must make amends. Moss isn't happy but respects the players' authority as heroes
-- **No wrong answer.** This teaches players that D&D isn't just combat
+**Round 1:** Prince uses Tidal Surge immediately (he's angry). Then Water Whips the nearest target. Players spread out, attack roots or the Prince directly.
 
-**Mayor Blackwell:**
-- If exposed, he resigns in shame
-- If not exposed, he's suddenly very generous to the heroes (guilt)
+**Round 2-3:** Prince focuses Water Whip on whoever is dealing the most damage. Uses Charm Gaze on Rowan (taking the tank out of the fight is scary). Felix should be getting Sneak Attack every round.
+
+**Round 4-5:** If roots are falling, Prince gets desperate. Describes his attacks as wild, panicked. If he charms someone, he commands them to "Come closer. Come to the water."
+
+**Turning Points:**
+- **If a player drops to 0 HP:** Garren the blacksmith grabs a rock and throws it at the Prince (auto-hit, 1d4 damage). Pim drags the fallen player to safety
+- **If Kael drops to 0:** Relentless Endurance triggers — huge dramatic moment, describe Kael's orcish blood keeping them fighting
+- **If Ember uses Fire Bolt on roots:** They catch fire. Double damage to the cluster. The cavern fills with smoke and screaming
+- **If Thistle uses Spiritual Weapon:** Describe it as a glowing mace of divine light. The Prince RECOILS from it
+- **If Felix throws the iron kitchen knife:** It sears the Prince's skin like a brand. 2d6 + Sneak Attack. Describe the hiss and the smoke
+
+**When he reaches 0 HP:**
+
+> The Prince lets out a sound like a lake freezing — a deep, resonant crack that you feel in your chest. The blue-green light flares so bright you have to shield your eyes. When you look back, the roots have surged forward, wrapping around his broken form, pulling him back into the stone. His face — for just a moment — looks almost peaceful. Almost young. The water lilies wilt. The pool goes still. And then, silence.
+
+> Real silence. The kind a town can sleep to.
+
+### Act 5: Aftermath (45-60 min RP)
+
+**Miravel's Fate — The Moral Choice:**
+This is the campaign's emotional climax. Let every player speak.
+
+**Option A: Justice**
+Turn her over to Constable Moss. She's locked in the town jail. Lila is satisfied. Moss is relieved. Old Wren shakes his head but says nothing.
+
+**Option B: Mercy**
+Let her go. She flees south, taking nothing. Old Wren approves: "Mercy is its own magic. She'll carry her guilt forever. That's punishment enough." Lila is furious. Moss is uncomfortable.
+
+**Option C: Redemption**
+She stays but must make amends — tend the sick, use her apothecary knowledge for good, under Moss's supervision. She weeps with gratitude. This is the hardest choice because it requires the town to forgive.
+
+**Option D: The players surprise you**
+They always do. Roll with it.
+
+**Back in Town — Celebration Scene:**
+- Berta throws a feast at the Hearthstone Inn
+- The freed townsfolk are confused but safe
+- Tomm and Lila are reunited (Tomm hugs Felix because Felix probably found the most clues)
+- Edda asks about her cat (someone fed it, the cat is fine)
+- Pim is telling everyone he fought the Prince bare-handed (he didn't)
+- Mayor Blackwell is either arrested (if exposed) or suddenly very generous
+
+**Old Wren's Farewell:**
+> At the dock, Old Wren raises a hand as you pass. "The lake remembers what you did. It'll remember your names long after the rest of us forget." He turns back to the water. "Come back sometime. The fish'll be biting."
 
 **Rewards:**
-- **Each player:** 150 XP (enough to reach Level 2 with milestone)
-- **Gold:** 50 gp each from the town treasury (or 100 gp each if the mayor was exposed and the funds recovered)
-- **Items:** Each player may choose one:
-  - Miravel's Brooch of Water Breathing (can breathe underwater 1 hour/day)
-  - Constable's Iron Manacles (advantage on grapple checks against fey)
-  - Old Wren's Compass (always points toward the nearest body of water; 1/day can cast Detect Magic)
-  - Berta's Hearthstone Pendant (1/day can cast Spare the Dying on a creature within 30 ft)
-  - Lila's Lucky Rolling Pin (+1 improvised weapon, once per long rest can reroll a failed saving throw)
-- **Level Up to 2!** Walk them through it together at the table
+- **Gold:** 100 gp each (plus recovered embezzled funds if mayor was exposed: +50 gp each)
+- **Magic Items (each player chooses one):**
+  - **Miravel's Brooch** (water lily brooch): Breathe underwater 1 hour/day. While wearing it, you can speak with freshwater creatures
+  - **Moss's Iron Manacles:** Advantage on grapple checks against fey. Once per day, can cast Hold Person on a fey creature (DC 13 WIS)
+  - **Wren's Compass:** Always points toward nearest large body of water. 1/day cast Detect Magic. The needle spins wildly near fey magic
+  - **Hearthstone Pendant:** 1/day cast Spare the Dying at 30 ft range. The pendant grows warm near the undead
+  - **Lila's Iron Rolling Pin:** +1 weapon (improvised or mace stats). 1/long rest, reroll a failed saving throw. Smells faintly of fresh bread
 
-### Closing Narration
-
-> The next morning, Aldermere wakes up different. The gate stands open. Children play in the street. Berta serves the biggest breakfast you've ever seen, and she won't let you pay. At the dock, Old Wren raises a hand as you pass. "The lake remembers, you know," he says. "What you did down there. It remembers." He turns back to the water. "Come back sometime. The fish have been biting."
-
-**The End.**
+**They're Level 3.** Campaign complete.
 
 ---
 
-## DM Cheat Sheet
+## DM CHEAT SHEET
 
-### Quick DC Reference
-| Difficulty | DC | When to Use |
+### DC Reference
+| DC | Meaning | Example |
 |---|---|---|
-| Easy | 10 | Basic information gathering |
-| Medium | 13 | Important clues, moderate challenges |
-| Hard | 15 | Hidden secrets, skilled tasks |
-| Very Hard | 18 | Locked gate, major secrets |
+| 10 | Easy | Notice something obvious, talk to a nervous guard |
+| 12 | Medium | Find boot prints, disconnect a sleeper, Medicine check |
+| 13 | Moderate | Insight on Miravel, resist the Prince's charm, break vine entangle |
+| 14 | Hard | Find hidden door, pick Miravel's drawer, Stealth to follow her |
+| 15 | Very Hard | Spot locked drawer on first visit, Prince's lie about peaceful departure |
+| 18 | Extreme | Pick the iron gate without the key |
 
-### Encounter Balance (4-5 Level 1 Characters)
-| Encounter | Enemies | Difficulty |
-|---|---|---|
-| Random wolf encounter (travel) | 2 wolves (AC 13, HP 11, bite +4, 2d4+2) | Easy |
-| Miravel fights back | Miravel alone (AC 12, HP 27) | Easy-Medium |
-| The Drowning Prince | Prince (AC 14, HP 45, bound) | Medium-Hard |
+### Combat Summary
+| Session | Encounter | Enemies | Difficulty |
+|---|---|---|---|
+| 1 | Blighted Vines | 4 vines (AC 12, 11 HP) | Easy-Medium |
+| 2 | Enthralled Guards + Wisp | 2 guards (AC 10, 15 HP) + 1 Wisp (AC 19, 22 HP) | Medium |
+| 3 | Root Horror | 1 horror (AC 13, 40 HP) | Easy (warm-up) |
+| 3 | The Drowning Prince | 1 boss (AC 15, 65 HP, bound) + 3 root clusters | Hard (final boss) |
 
-### Pacing Guide
-| Session | Time | Content |
-|---|---|---|
-| Session 1 | 3-4 hrs | Arrival, meet NPCs, investigate 3-4 locations, find mill entrance |
-| Session 2 | 3-4 hrs | New disappearance, confront Miravel, enter caverns, meet Prince |
-| Session 3 | 3-4 hrs | Free sleepers, boss fight, aftermath, rewards |
+### Pacing
+| Session | Lvl | RP | Combat | Key Moment |
+|---|---|---|---|---|
+| 1 | 1→2 | Introductions, investigation, NPC meetings | Blighted Vines in mill | Finding the iron gate, hearing breathing beyond |
+| 2 | 2→3 | Pim's disappearance, confronting Miravel, Prince's temptation | Guards + Wisp in caverns | Miravel's confession, Prince opening his eye |
+| 3 | 3 | Pre-battle prep, freeing sleepers, aftermath/moral choice | Root Horror + Prince boss fight | Moral choice about Miravel, celebration |
 
 ### If Players Get Stuck
-- Have Lila come find them: "Please, have you found anything? Anything at all?"
-- Have Old Wren appear and drop a hint: "Have you tried the mill? The water lilies grow there too, I hear."
-- Have Moss share a new clue: "I found this water lily pressed in Edda's journal. She wrote 'Miravel' next to it."
-- Let a player roll Investigation DC 10 to "suddenly remember" a connection
+- Lila finds them: "Have you been to the mill? I heard sounds there last night."
+- Wren appears: "The water lilies. Follow them."
+- Moss shares: "I found a water lily pressed in Edda's journal. She wrote 'Miravel' next to it."
+- A player gets a "sudden insight" — Investigation DC 10 to connect dots
 
-### If Players Go Off-Track
-- The forest is boring. Nothing there except maybe a single wolf encounter if they need combat practice
-- The lake yields nothing if searched (the Prince's prison is accessed from the mill, not the lake)
-- Any NPC they talk to eventually mentions Miravel, the mill, or the water lilies
-- Gently redirect: "You spend an hour searching the area but find nothing of interest. As you head back, you notice water lilies growing in an unusual place..."
-
-### Novice Player Tips
-- Remind them of their abilities: "Remember, you have Detect Magic as a spell — this might be a good time"
-- Suggest rolls: "You want to see if she's lying? That would be an Insight check"
-- Narrate consequences of nat 20s dramatically. Make nat 1s funny, not punishing
-- Let them try creative solutions. If it's cool, let it work
-- If combat is too hard, have a root cluster break on its own, dealing 10 damage to the Prince
-- If combat is too easy, have the Prince pull a player into the pool (restrained, DC 13 STR to escape)
+### Emergency Adjustments
+- **Too hard:** Root cluster breaks on its own (10 free damage to Prince). Garren throws a rock. Reduce enemy HP by 20%
+- **Too easy:** Prince pulls someone into the pool (restrained). Add 1 more vine/guard. Prince uses Tidal Surge twice
+- **Player absent:** Their character "guards the entrance" or "watches Miravel." Don't punish the group
+- **Players murder Miravel:** She has the gate key on her body. It works, but Moss is upset and the ending is darker. That's okay — actions have consequences
