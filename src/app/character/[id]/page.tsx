@@ -7,6 +7,7 @@ import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import DiceRoller from '@/components/DiceRoller';
 import AbilityChecks from '@/components/AbilityChecks';
+import PortraitUpload from '@/components/PortraitUpload';
 import { SpellList, SpellSlotTracker } from '@/components/SpellSystem';
 
 type AbilityKey = 'str' | 'dex' | 'con' | 'int' | 'wis' | 'cha';
@@ -214,11 +215,25 @@ export default function CharacterPage() {
         {/* Character Header */}
         <div className="card-parchment corner-flourish mb-6">
           <div className="flex items-start gap-6 flex-wrap md:flex-nowrap">
-            <div className="portrait-frame w-28 h-28 flex-shrink-0">
-              <div className="w-full h-full bg-accent-amber/20 flex items-center justify-center">
-                <span className="text-4xl font-accent text-ink-medium">{character.name?.charAt(0)}</span>
+            {isOwner ? (
+              <PortraitUpload
+                characterId={character.id}
+                currentPortraitUrl={character.portrait_url}
+                characterName={character.name}
+                onUpload={(url) => setCharacter({ ...character, portrait_url: url })}
+                size={112}
+              />
+            ) : (
+              <div className="portrait-frame w-28 h-28 flex-shrink-0">
+                {character.portrait_url ? (
+                  <img src={character.portrait_url} alt={character.name} className="w-full h-full object-cover" />
+                ) : (
+                  <div className="w-full h-full bg-accent-amber/20 flex items-center justify-center">
+                    <span className="text-4xl font-accent text-ink-medium">{character.name?.charAt(0)}</span>
+                  </div>
+                )}
               </div>
-            </div>
+            )}
 
             <div className="flex-1 min-w-0">
               <h1 className="text-3xl font-heading font-semibold text-ink-dark mb-1">{character.name}</h1>
